@@ -1,0 +1,9 @@
+---
+title: "Contact"
+site: true
+format: html
+---
+
+You can reach me at: evasophieb@comcast.net (Personal) or bens1369@umn.edu (University)
+
+Or connect on [GitHub](https://github.com/evasbenson).

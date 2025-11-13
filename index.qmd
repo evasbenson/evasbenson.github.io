@@ -1,0 +1,15 @@
+---
+title: "Home"
+site: true
+format: html
+---
+
+# Hello, I’m Eva Benson
+
+*Applied Economist • Environmental Scientist*
+
+- I study the economic impacts of climate change and environmental policy.
+- I research the impacts of climate change and land use change on economic systems.
+- I build reproducible econometric and spatial analysis models.
+
+[Check out my GitHub](https://github.com/evasbenson)

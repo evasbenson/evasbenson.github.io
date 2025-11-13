@@ -1,0 +1,16 @@
+---
+title: "Projects"
+site: true
+format: html
+---
+
+Here are some of my research projects:
+
+- **Microplastics in the Cannon River Watershed**  
+  Investigating the environmental impacts of microplastics in the Cannon River Watershed, focusing on the impact of stream morphology on microplastic distribution.
+
+- **Ski Resort Climate and Economics Study**  
+  Analyzing how climate variables like snowfall, temperature, and snowmaking technology influence the economic performance of ski resorts and regional tourism in Colorado.
+
+- **Trade and Fertility Research**  
+  Exploring how trade openness impacts fertility rates in Central America.

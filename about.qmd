@@ -1,0 +1,13 @@
+---
+title: "About"
+site: true
+format: html
+---
+
+I am an applied economist and environmental scientist. My research focuses on:
+
+- Climate change and land use impacts on economic systems
+- Environmental policy analysis
+- Econometric and spatial modeling
+
+I enjoy turning complex data into actionable insights.
