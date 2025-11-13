@@ -1,5 +1,6 @@
 project:
   output-dir: ".../RENDERED_SITE"
+  project-url: /evasbenson/
   type: website
 
 website:

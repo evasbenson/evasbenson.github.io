@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an applied economist and environmental scientist. My research focuses on:\n\nClimate change and land use impacts on economic systems\nEnvironmental policy analysis\nEconometric and spatial modeling\n\nI enjoy turning complex data into actionable insights."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some of my research projects:\n\nMicroplastics in the Cannon River Watershed\nInvestigating the environmental impacts of microplastics in the Cannon River Watershed, focusing on the impact of stream morphology on microplastic distribution.\nSki Resort Climate and Economics Study\nAnalyzing how climate variables like snowfall, temperature, and snowmaking technology influence the economic performance of ski resorts and regional tourism in Colorado.\nTrade and Fertility Research\nExploring how trade openness impacts fertility rates in Central America."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can reach me at: evasophieb@comcast.net (Personal) or bens1369@umn.edu (University)\nOr connect on GitHub."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hello, I’m Eva Benson\nApplied Economist • Environmental Scientist\n\nI study the economic impacts of climate change and environmental policy.\nI research the impacts of climate change and land use change on economic systems.\nI build reproducible econometric and spatial analysis models.\n\nCheck out my GitHub"
+  }
+]
